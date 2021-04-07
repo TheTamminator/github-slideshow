@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Vampire Metal Fans Unite!</br>
 Use the left arrow to go back!
